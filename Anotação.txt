@@ -1,0 +1,6 @@
+- Comandos Git
+
+ git clone (http) -> Serve para pegar um repositório do github na pasta selecionada
+ git init -> Selecionar diretório como repositório do github
+ git status -> verificar updates do repositório
+ 
